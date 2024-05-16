@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\slider\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\viewmodels\\slider\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\viewmodels\\slider\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\viewmodels\\slider\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\viewmodels\\slider\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|c:\\users\\asus\\desktop\\multishop-main\\multishopapp\\multishop\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABF8BEE-8978-478D-B364-794BA67CE827}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,150 +49,118 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
-              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Slider\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T09:40:02.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateSliderVm.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Slider\\CreateSliderVm.cs",
-              "RelativeDocumentMoniker": "MultiShop\\ViewModels\\Slider\\CreateSliderVm.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Slider\\CreateSliderVm.cs",
-              "RelativeToolTip": "MultiShop\\ViewModels\\Slider\\CreateSliderVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:39:05.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SliderVM.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Slider\\SliderVM.cs",
-              "RelativeDocumentMoniker": "MultiShop\\ViewModels\\Slider\\SliderVM.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Slider\\SliderVM.cs",
-              "RelativeToolTip": "MultiShop\\ViewModels\\Slider\\SliderVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:38:46.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetCategoryVm.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Category\\GetCategoryVm.cs",
-              "RelativeDocumentMoniker": "MultiShop\\ViewModels\\Category\\GetCategoryVm.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Category\\GetCategoryVm.cs",
-              "RelativeToolTip": "MultiShop\\ViewModels\\Category\\GetCategoryVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:38:52.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T09:38:24.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:36:15.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCkAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T09:20:19.655Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T09:10:10.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T08:55:01.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T00:25:50.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T00:23:54.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T08:53:42.166Z",
+              "WhenOpened": "2024-05-14T23:27:17.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeToolTip": "MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:49:38.931Z",
+              "WhenOpened": "2024-05-14T23:27:09.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:10:34.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCategoryVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Category\\UpdateCategoryVm.cs",
+              "RelativeDocumentMoniker": "MultiShop\\ViewModels\\Category\\UpdateCategoryVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\ViewModels\\Category\\UpdateCategoryVm.cs",
+              "RelativeToolTip": "MultiShop\\ViewModels\\Category\\UpdateCategoryVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:09:58.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:08:10.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T22:56:57.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\multiShop-main\\MultiShopApp\\MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:56:49.225Z",
               "EditorCaption": ""
             }
           ]
